@@ -20,5 +20,5 @@ readFile('./folder/subfolder/first.txt','utf8', (err, result) => {
                                 return
                         }
                         console.log(result)
-                })})
+        })})
 })
